@@ -1,0 +1,27 @@
+{
+	"name": "Jeel",
+    "instituteType": "School",
+    "medium": "Hindi",
+    "classType": "Primary",
+    "standard": "6th",
+    "subject": "Maths",
+    "board": "6825d30ad0cc45f7fe2f46ea"
+}
+
+
+{
+	"name": "Jeel",
+    "instituteType": "College",
+    "university": "Nirma",
+    "degreeType": "Master"
+}
+
+{
+	"name": "ABCD",
+    "instituteType": "Competitive Exam Center",
+    "exampType": "6825d4839ea9494ee523d33f"
+}
+
+{
+    "examName": "Government class-1"
+}
