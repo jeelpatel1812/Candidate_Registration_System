@@ -1,3 +1,12 @@
+
+APIs
+
+Post -> /api/v1/registation/submit
+Post -> /api/v1/board/add
+Get -> /api/v1/board/list
+Post -> /api/v1/examType/add
+Get -> /api/v1/examType/list
+
 {
 	"name": "Jeel",
     "instituteType": "School",
